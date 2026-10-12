@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this project and the original dataset when using the analysis."
+type: software
+title: "Great Britain Road Accident Severity Analysis, 2005–2015"
+authors:
+  - family-names: More
+    given-names: Mayur
+repository-code: "https://github.com/mayurmore0812/gb-road-accident-severity-analysis"
+abstract: "Academic exploratory analysis of historical police-reported accidents, vehicle involvement and casualty severity."

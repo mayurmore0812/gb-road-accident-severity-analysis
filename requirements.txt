@@ -1,0 +1,6 @@
+# Analytical and notebook dependencies; historical versions are unknown.
+numpy
+pandas
+matplotlib
+seaborn
+jupyterlab
