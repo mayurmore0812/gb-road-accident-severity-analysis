@@ -50,4 +50,4 @@ pandas and NumPy for loading, feature derivation and grouped summaries; matplotl
 
 ## Attribution and reuse
 
-Data: Department for Transport STATS19, distributed by Kaggle user `silicon99`. See [third-party notices](THIRD_PARTY_NOTICES.md) and [licence scope](docs/LICENSE_SCOPE.md). Raw records are downloaded separately. No blanket software licence has been assigned.
+Data: Department for Transport STATS19, distributed by Kaggle user `silicon99`. See [third-party notices](THIRD_PARTY_NOTICES.md) and [licence scope](docs/LICENSE_SCOPE.md).
