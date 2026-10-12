@@ -8,7 +8,7 @@ Python exploratory analysis of **1,780,653 police-reported accidents from 2005â€
 
 ## Explore the project
 
-- [Notebook with saved aggregate outputs](GB_Road_Accident_Severity_Analysis.ipynb)
+- [Notebook with saved outputs](GB_Road_Accident_Severity_Analysis.ipynb)
 - [Standalone HTML report](reports/GB_Road_Accident_Severity_Analysis.html): download and open locally; GitHub displays HTML source rather than hosting this report.
 - [Data download, fields and provenance](docs/DATA.md)
 - [Methods and limitations](docs/METHODS_AND_LIMITATIONS.md)
